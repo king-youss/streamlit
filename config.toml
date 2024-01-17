@@ -1,0 +1,20 @@
+# Configuration du thème
+[theme]
+primaryColor = "#4CAF50"  # Vert vif évoquant la nature
+backgroundColor = "#FFF8E1"  # Jaune pâle comme couleur de fond
+secondaryBackgroundColor = "#A5D6A7"  # Vert clair comme couleur secondaire
+textColor = "#3E2723"  # Marron foncé pour le texte
+font = "Roboto, sans-serif"  # Police Roboto ou sans-serif
+
+# Icônes d'animaux pour les différentes sections de l'application
+[icons]
+collecte_responses = "🐾"
+delete_response = "🗑️"
+delete_all_responses = "🗑️🗑️"
+display_responses = "📋"
+filter_responses = "🔍"
+visualize_pet_preference = "📊"
+
+# Configuration des dépréciations
+[deprecation]
+showPyplotGlobalUse = false  # Désactiver l'affichage des utilisations globales de pyplot
